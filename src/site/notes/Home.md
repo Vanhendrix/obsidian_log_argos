@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-13","updated":"2025-01-15"}
 ---
 
----
+
 >[!abstract] Le but de ce blog est de servir de carnet de bord pour la production d'***Argos***, un court métrage écris par Julien Paillet.
 - les #log pour suivre l'avancement du projet.
 - La **[[Liste des plans\|Liste des plans]]**.
