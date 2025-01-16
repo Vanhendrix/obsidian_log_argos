@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/argos/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/argos/","tags":["gardenEntry"],"created":"2025-01-13","updated":"2025-01-15"}
 ---
 
 

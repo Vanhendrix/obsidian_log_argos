@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/liste-des-plans/"}
+{"dg-publish":true,"permalink":"/liste-des-plans/","created":"2025-01-15","updated":"2025-01-15"}
 ---
 
 | Nom du plan      | Code du plan | Status | Frame Range | Timeline | Character                 | Props                                    | Set                                                   | Time |
