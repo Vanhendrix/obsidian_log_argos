@@ -1,4 +1,4 @@
-import * as THREE from 'three';
+import * as THREE from 'https://cdn.jsdelivr.net/npm/three/build/three.module.js';
 
 function initViewer() {
   const scene = new THREE.Scene();
