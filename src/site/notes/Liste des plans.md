@@ -15,7 +15,7 @@
 | Psy 1-2          | [[shots/ARG_0090\|ARG_0090]] | Board  |             |          | Anna, Julien              |                                          | Salon                                                 | Jour |
 | Psy 1-3          | [[shots/ARG_0100\|ARG_0100]] | Board  |             |          | Anna, Argos, Julien       |                                          | Salon                                                 | Jour |
 | Espoir           | [[shots/ARG_0110\|ARG_0110]] | Board  |             |          | Anna, Lucas               | Assiettes, Couverts, Morceau de viande   | Cuisine                                               | Nuit |
-| Séquence Montage | [[shots/ARG_0120\|ARG_0120]] | N/A    |             |          | Anna, Julien, Lucas       | Téléphone Portable                       |                                                       |      |
+| Séquence Montage | [[shots/ARG_0120\|ARG_0120]] | Board  |             |          | Anna, Julien, Lucas       | Téléphone Portable                       |                                                       |      |
 | Argos            | [[shots/ARG_0130\|ARG_0130]] | Board  |             |          | Anna, Argos, Lucas        | Sacs Poubelles                           | Chambre, Cuisine, Extérieur                           | Nuit |
 | Recherche        | [[shots/ARG_0140\|ARG_0140]] | Board  |             |          | Anna, Lucas               | Téléphone Portable                       | Chambre                                               | Nuit |
 | Psy 2-1          | [[shots/ARG_0150\|ARG_0150]] | Board  |             |          | Anna, Julien              | Téléphone Portable                       | Salon                                                 | Jour |
