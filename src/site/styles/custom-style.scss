@@ -1,13 +1,18 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    li.current {
+        border-bottom: 1px solid;
+    }
+ 
+    .sidebar-nav li {
+        float: left;
+        list-style-type: none;
+        padding: 0 10px;
+        text-align: center;
+        cursor: pointer;
+        font-size: 14px;
+    }
+ 
+    .item {
+        display: none;
+    }
 }
