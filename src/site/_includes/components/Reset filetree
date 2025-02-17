@@ -14,7 +14,7 @@
                     <span class="foldername">{{fileOrFolderName}}</span>
                     </div>
                     {% for fileOrFolderName, child in fileOrFolder %}
-                        {{menuItem(fileOrFolderName, child, step 1, (currentPath "/" fileOrFolderName))}}
+                        {{menuItem(fileOrFolderName, child, step+1, (currentPath+"/"+fileOrFolderName))}}
                     {% endfor %}
                 </div>
             {% endif %}
@@ -47,10 +47,10 @@
                 {% include "components/searchButton.njk" %}
             </div>
         {%endif%}
-		<div class="folder" x-data="{isOpen: true}">
-			{% for fileOrFolderName, fileOrFolder in filetree -%}
-				{{menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName)}}
-		        {% endfor -%}
- 		</div>
+         <div class="folder" x-data="{isOpen: true}">
+               {%- for fileOrFolderName, fileOrFolder in filetree -%}
+                  {{menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName)}}
+               {%- endfor -%}
+         </div>
       </nav>
     </div>
